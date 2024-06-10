@@ -12,7 +12,7 @@ Here lies my first original web-game project: ROCKET SAUCE! I wanted to spend mo
 
 ## How to play
 
-- Click the link! --> <a target="_blank" href="https://tcgilbert.github.io/rocket-sauce/">Rocket Sauce - PLAY NOW</a>
+- Click the link! --> <a href="https://tcgilbert.github.io/rocket-sauce/">Rocket Sauce - PLAY NOW</a>
 
 ## Languages and Tools
 
